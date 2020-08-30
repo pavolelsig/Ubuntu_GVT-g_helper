@@ -1,0 +1,9 @@
+    [Unit]
+    Description=GVT-g service
+
+    [Service]
+    Type=idle
+    ExecStart=/bin/bash /usr/bin/gvt_pe.sh
+    
+    [Install]
+WantedBy=graphical.target
