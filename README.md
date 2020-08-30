@@ -13,6 +13,6 @@ Optionally, to hear audio through the host, run:
 ./part_3_optional.sh
 
 Sources:
-https://github.com/intel/gvt-linux/wiki/GVTg_Setup_Guide
-https://looking-glass.hostfission.com/wiki/Installation
-https://github.com/duncanthrax/scream
+* https://github.com/intel/gvt-linux/wiki/GVTg_Setup_Guide
+* https://looking-glass.hostfission.com/wiki/Installation
+* https://github.com/duncanthrax/scream
