@@ -1,7 +1,5 @@
 Intel Single GPU passthrough GVT-g helper
 
-Intel Single GPU passthrough GVT-g helper
-
 To display your VM, you'll need to download Looking Glass: https://looking-glass.hostfission.com/
 To hear the audio from your VM, you'll need Scream: https://github.com/duncanthrax/scream
 
