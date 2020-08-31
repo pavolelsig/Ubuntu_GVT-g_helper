@@ -1,4 +1,4 @@
-Intel Single GPU passthrough GVT-g helper
+Intel Single GPU passthrough GVT-g helper for Ubuntu 20.04
 
 For a guide visit: https://youtu.be/6-RjFl00QSk
 
